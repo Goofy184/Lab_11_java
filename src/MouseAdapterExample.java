@@ -11,7 +11,6 @@ public class MouseAdapterExample {
                 if(y <= f.getInsets().top){
                     System.out.println("Мишка перетнула верхню границю");
                 }
-
             }
         });
         f.setSize(300, 300);
